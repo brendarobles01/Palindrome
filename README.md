@@ -15,7 +15,7 @@ git@github.com:brendarobles01/Palindrome.git
 cd Palindrome
 ```
 
-3. Install the application's dependencies (nightwatch, geckodriver)
+3. Install the application's dependencies
 
 ```
 npm install 
